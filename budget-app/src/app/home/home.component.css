@@ -1,0 +1,29 @@
+.home-container {
+  height: 80vh;
+  display: flex;
+  align-items: center;}
+
+.first-text, .second-text {
+    font-size: 50px;
+}
+
+.first-text {
+  color: #171f49;
+}
+
+.second-text {
+  color: #A4AEC2;
+}
+
+li:before {
+  content: '\1F4B8'; margin-left: -18px;
+  padding-right: 20px
+}
+
+.android {
+  width: 213px;
+}
+
+.apple {
+  width: 164px;
+}
